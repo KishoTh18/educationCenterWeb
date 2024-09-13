@@ -1,7 +1,3 @@
-Here's a sample README file with emojis to make it more engaging:
-
----
-
  🏫 Education Center Website
 
 Welcome to the **Education Center Website** repository! 🎓 This project is designed to provide a comprehensive platform for educational management.
@@ -51,10 +47,3 @@ For any questions or issues, feel free to reach out:
 
 - Email: [haransaki55@gmail.com](mailto:haransaki55@gmail.com) 📬
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
-
----
-
-Feel free to adjust the instructions or add any additional sections as needed!
